@@ -53,3 +53,4 @@ CodeCoverage/
 TestResult.xml
 nunit-*.xml
 /ReferernciaDocker/ExampleRepoDocker/.vs/ExampleRepoDocker
+/ReferernciaDocker/.vs/ExampleRepoDocker
